@@ -1,0 +1,5 @@
+#node 模块
+node_modules/
+
+# WebStorm管理文件
+.idea
